@@ -1,0 +1,40 @@
+{
+  "notes": [
+    {
+      "content": "custom-hookit aivan mahtavia",
+      "id": 1
+    },
+    {
+      "content": "paras feature ikinä <3",
+      "id": 2
+    },
+    {
+      "content": "asdasd",
+      "id": 3
+    },
+    {
+      "content": "sdfsdfsdfssd",
+      "id": 4
+    },
+    {
+      "content": "asdasdsd",
+      "id": 5
+    },
+    {
+      "content": "sdfsdfsdf",
+      "id": 6
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "heikki",
+      "number": "040420424",
+      "id": 2
+    }
+  ]
+}
